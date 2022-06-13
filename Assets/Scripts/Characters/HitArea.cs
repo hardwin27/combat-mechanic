@@ -8,7 +8,7 @@ public class HitArea : MonoBehaviour
 
     private void Update() 
     {
-        print(isCountering);    
+        
     }
 
     private void OnTriggerEnter2D(Collider2D other) 
